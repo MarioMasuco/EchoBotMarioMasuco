@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # EjercicioTelegramBot
 
 ## Descripción
@@ -39,6 +38,7 @@ python bot.py
 ## Descripción
 Este es un bot básico de Telegram que repite ("eco") los mensajes recibidos. También responde al comando `/start` con un mensaje de bienvenida.
 
-=======
-# EchoBotMarioMasuco
->>>>>>> 40578576c4ad9c27a3d108dc3977f92b7b12e948
+## Configuración y Ejecución
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/MarioMasuco/EchoBotMarioMasuco.git

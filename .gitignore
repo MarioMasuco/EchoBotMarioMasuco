@@ -23,3 +23,8 @@ Thumbs.db
 venv/
 config.py
 __pycache__/
+
+BOT_TOKEN = "7974122529:AAHzb1eR0GTZJCsTa9EzMgMbmoPE70ekj-U"
+
+# Id del bot
+@MarioMasucoEchobot
